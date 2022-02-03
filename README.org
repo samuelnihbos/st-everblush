@@ -1,0 +1,24 @@
+
+#+TITLE: suckless terminal custom build
+#+DESCRIPTION: My st (simple (suckless?) terminal) build
+#+AUTHOR: SamuelNihBos 
+
+* Table of Contents :toc:
+- [[#what-is-st][What is st?]]
+- [[#installing-my-custom-st][Installing my custom st]]
+
+* What is st?
+st is a simple terminal emulator for X which suckless. The Suckless team created st as an alternative to traditional, 'bloated' terminal emulators like xterm and rxvt, which have tens of thousands of lines of code.
+
+* Installing my custom st
+Download the source code from this repository or use a git clone:
+
++ git clone https://gitlab.com/samuelnihbos/st-samuel
++ cd st-samuel
++ sudo make clean install
+
+
+or you can install this build of st by adding my 3rd party repo. Read the guide [[https://gitlab.com/samuelnihbos/samuel-arch-repo][here]]
+
+
+=NOTE:= Installing this custom st will overwrite your existing st installation so make a backup of your current config if you need it.
