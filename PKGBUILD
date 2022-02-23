@@ -1,10 +1,10 @@
-# Maintainer: SamuelNihBos
-pkgname=st-uwu-git
+# Maintainer: SamuelNihBos <samuelnihbos@disroot.org>
+pkgname=st-everblush-git
 pkgver=0.8.4.r32.835d7b3
 pkgrel=1
 pkgdesc="A patched and customized build of st"
 arch=(x86_64)
-url="https://github.com/samuelnihbos/st-uwu.git"
+url="https://github.com/samuelnihbos/st-everblush.git"
 license=('MIT')
 groups=()
 depends=(ttf-hack ttf-joypixels ttf-iosevka-nerd)
