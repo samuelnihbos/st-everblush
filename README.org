@@ -13,8 +13,8 @@ st is a simple terminal emulator for X which suckless. The Suckless team created
 * Installing my custom st
 Download the source code from this repository or use a git clone:
 
-+ git clone https://github.com/samuelnihbos/st-uwu
-+ cd st-uwu
++ git clone https://github.com/samuelnihbos/st-everblush
++ cd st-everblush
 + sudo make clean install
 
 
