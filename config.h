@@ -1,7 +1,7 @@
 /* appearance */
 
 /* Set default font (in this case, hack) */
-static char *font = "Iosevka Nerd Font:pixelsize=14:antialias=true:autohint=true";
+static char *font = "monospace:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = { 
     "JoyPixels:pixelsize=14:antialias=true:autohint=true",
 };
@@ -99,12 +99,12 @@ float alpha = 1.0;
 static const char *colorname[] = {
      /* 8 normal colors */
      "#22292b",
-     "#e06e6e",
+     "#e57474",
      "#8ccf7e",
      "#e5c76b",
      "#67b0e8",
      "#c47fd5",
-     "#6da4cd",
+     "#6cbfbf",
      "#b3b9b8",
 
      /* 8 bright colors */
@@ -112,7 +112,7 @@ static const char *colorname[] = {
      "#ef7d7d",
      "#9bdead",
      "#f4d67a",
-     "#6cb5ed",
+     "#71baf2",
      "#ce89df",
      "#67cbe7",
      "#bdc3c2",
@@ -120,7 +120,7 @@ static const char *colorname[] = {
      [255] = 0,
 
      /* more colors can be added after 255 to use with DefaultXX */
-     "#181f21",
+     "#141b1e",
      "#dadada",
 };
 
